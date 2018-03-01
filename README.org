@@ -1,0 +1,3 @@
+* Dota 2 autoexec
+
+The file should be placed here (on Linux): =~/.steam/steam/steamapps/common/dota 2 beta/game/dota/cfg/=
